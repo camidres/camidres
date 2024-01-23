@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://cm-web.co">Camilo Marquez</a> 👋</h1>
 </div>
-<img src="https://imgur.com/rmhe4Dw">
+<img src="https://i.imgur.com/5i3uvK8.png">
 
 ## Conocimientos en
 
