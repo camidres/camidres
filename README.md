@@ -9,7 +9,7 @@
 
 ## Conocimientos en
 
-- [(https://img.shields.io/badge/php-purple)] 
+- <img alt="Static Badge" src="https://img.shields.io/badge/php-purple">
 - 📲 Mobile developer
 - 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+40k subs)
 - ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
