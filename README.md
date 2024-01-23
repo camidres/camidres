@@ -25,8 +25,11 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Proyecto final entregado para culminar estudio en el tecnologo en análisis y desarrollo de sistemas de información,<br>
-  - Herramientas: laravel, php, livewire, tailwindcss, mysql, .</p>
+<p>Proyecto final entregado para culminar estudio en el tecnologo en análisis y desarrollo de sistemas de información.<br>
+  - Herramientas: laravel, php, livewire, tailwindcss, mysql.<br>
+  En este se proyecto se uso la api de google para que el usuario iniciara sesion y el api de paypal para realizar los pagos.
+
+</p>
 </div>
                                                                                       
 </td>
