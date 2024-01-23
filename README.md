@@ -38,7 +38,7 @@
                <br>
 <h3 align="center">Control de inventario y ventas</h3>
 <div align="center">                                       
-<a href="https://inventario.cm-web.co" target="_blank"><img src="https://cm-web.co/imagenes/inventario.PNG" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://inventario.cm-web.co" target="_blank"><img src="https://cm-web.co/imagenes/inventario.PNG" width="400" alt="inventario"></a>
 <br>
 <p>
 <a href="" target="_blank">
@@ -57,7 +57,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<!-- <td width="50%">
 <h3 align="center">Curso Android Intermedio</h3>
 <div align="center">
 <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
@@ -71,7 +71,7 @@
 </p>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
 </div>
-                                                                                      
+                                                                                       -->
 </td>       
 
 <td width="50%">
