@@ -35,7 +35,7 @@
 </td>
 
 <td width="50%">
-               <br>
+          
 <h3 align="center">Control de inventario y ventas</h3>
 <div align="center">                                       
 <a href="https://inventario.cm-web.co" target="_blank"><img src="https://cm-web.co/imagenes/inventario.PNG" width="400" alt="inventario"></a>
