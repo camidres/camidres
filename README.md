@@ -5,10 +5,15 @@
 ## Conocimientos en
 
 <img alt="Static Badge" src="https://img.shields.io/badge/html-orange"> <img alt="Static Badge" src="https://img.shields.io/badge/css-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/javascript-yellow">
-<img alt="Static Badge" src="https://img.shields.io/badge/sass-pink"> <img alt="Static Badge" src="https://img.shields.io/badge/jquery-gray">
+<img alt="Static Badge" src="https://img.shields.io/badge/sass-pink"> <img alt="Static Badge" src="https://img.shields.io/badge/jquery-gray"><br>
+<img alt="Static Badge" src="https://img.shields.io/badge/php-purple"> <img alt="Static Badge" src="https://img.shields.io/badge/laravel-red"> <img alt="Static Badge" src="https://img.shields.io/badge/vue3-green"> <img alt="Static Badge" src="https://img.shields.io/badge/angular-red">
 
 
-<br>
+
+
+
+
+
 
 ## Proyectos *bombitas*
 <table>
