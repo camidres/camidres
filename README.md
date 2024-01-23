@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://cm-web.co">Camilo Marquez</a> 👋</h1>
 </div>
-<img src="https://www.canva.com/design/DAF6qgrK6vw/-Obhw7Il0GYbry7_9fkoSw/view?utm_content=DAF6qgrK6vw&utm_campaign=designshare&utm_medium=link&utm_source=editor">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Fes_419%2F&psig=AOvVaw2slHh3287RnmcQYabpHpWB&ust=1706066104362000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDhhtPF8oMDFQAAAAAdAAAAABAD">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
