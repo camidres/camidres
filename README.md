@@ -9,7 +9,8 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/php-purple"> <img alt="Static Badge" src="https://img.shields.io/badge/laravel-red"> <img alt="Static Badge" src="https://img.shields.io/badge/vue3-green"> <img alt="Static Badge" src="https://img.shields.io/badge/angular-red"> <img alt="Static Badge" src="https://img.shields.io/badge/mysql-orange"> 
 <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/java-099E12"> <img alt="Static Badge" src="https://img.shields.io/badge/mongodb-06F718"> <img alt="Static Badge" src="https://img.shields.io/badge/bootstrap-purple">
-<img alt="Static Badge" src="https://img.shields.io/badge/tailwindcss-06B5F7">
+<img alt="Static Badge" src="https://img.shields.io/badge/tailwindcss-06B5F7"> <img alt="Static Badge" src="https://img.shields.io/badge/git-black">
+<br>
 
 
 
