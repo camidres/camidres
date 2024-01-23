@@ -35,19 +35,15 @@
 </td>
 
 <td width="50%">
-          
 <h3 align="center">Control de inventario y ventas</h3>
 <div align="center">                                       
 <a href="https://inventario.cm-web.co" target="_blank"><img src="https://cm-web.co/imagenes/inventario.PNG" width="400" alt="inventario"></a>
-<br>
 <p>
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-
 </p>
 </p>Proyecto creado para cubrir la necesidad de control de inventario y ventas de un local dedicado a la venta de insumos de panaderia.<br>
-
 - Herramientas: laravel, php, livewire, tailwind, mysql.
 </p>
 </div>                                                             
