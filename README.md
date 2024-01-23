@@ -4,7 +4,8 @@
 
 ## Conocimientos en
 
-- <img alt="Static Badge" src="https://img.shields.io/badge/php-purple"><img alt="Static Badge" src="https://img.shields.io/badge/html-orange">
+- <img alt="Static Badge" src="https://img.shields.io/badge/php-purple">
+<img alt="Static Badge" src="https://img.shields.io/badge/html-orange">
 
 - 📲 Mobile developer
 - 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+40k subs)
