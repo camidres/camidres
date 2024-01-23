@@ -34,6 +34,9 @@
                                                                                       
 </td>
 
+</tr>
+
+<tr>
 <td width="50%">
 <h3 align="center">Control de inventario y ventas</h3>
 <div align="center">                                       
@@ -46,10 +49,12 @@
 </p>Proyecto creado para cubrir la necesidad de control de inventario y ventas de un local dedicado a la venta de insumos de panaderia.<br>
 - Herramientas: laravel, php, livewire, tailwind, mysql.
 </p>
-</div>                                                             
+</div>     
+</td>
+  </tr>
 </table>                                                                                 
 </div>
-<br>
+
 
 
 
