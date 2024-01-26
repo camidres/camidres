@@ -19,7 +19,7 @@
 <td width="50%">
 <h3 align="center">Ecommerce</h3>
 <div align="center">
-<a href="https://farma.cm-web.co" target="_blank"><img src="" width="400" alt="Ecommerce"></a>
+<a href="https://farma.cm-web.co" target="_blank"><img src="https://cm-web.co/imagenes/Captura.PNG" width="400" alt="Ecommerce"></a>
 <p>
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -63,9 +63,9 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Proyecto final entregado para culminar estudio en el tecnologo en análisis y desarrollo de sistemas de información.<br>
-  - Herramientas: laravel, php, livewire, tailwindcss, mysql.<br>
-  En este se proyecto se uso la api de google para que el usuario se registrara e iniciara sesion y el api de paypal para realizar los pagos.
+<p>
+  Proyecto realizado con la finalidad de poner en practica mis conocimientos.<br>
+  - Herramientas: html, sass, javascript.
 
 </p>
 </div>
