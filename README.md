@@ -42,7 +42,7 @@
 <div align="center">                                       
 <a href="https://inventario.cm-web.co" target="_blank"><img src="https://cm-web.co/imagenes/inventario.PNG" width="400" alt="inventario"></a>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/camidres/inventario.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
@@ -59,7 +59,7 @@
 <div align="center">
 <a href="https://calculadora.cm-web.co" target="_blank"><img src="https://i.imgur.com/IWQcw0K.png" width="400"></a>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/camidres/calculadora.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
@@ -78,9 +78,9 @@
 <td width="50%">
 <h3 align="center">Formulario</h3>
 <div align="center">
-<a href="https://calculadora.cm-web.co" target="_blank"><img src="https://i.imgur.com/V6l29La.png" width="400"></a>
+<a href="https://formulario.cm-web.co" target="_blank"><img src="https://i.imgur.com/V6l29La.png" width="400"></a>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/camidres/formulario_con_validacion.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
