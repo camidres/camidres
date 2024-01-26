@@ -19,7 +19,7 @@
 <td width="50%">
 <h3 align="center">Ecommerce</h3>
 <div align="center">
-<a href="https://farma.cm-web.co" target="_blank"><img src="i.imgur.com/5i3uvK8.png" width="400" alt="Ecommerce"></a>
+<a href="https://farma.cm-web.co" target="_blank"><img src="https://i.imgur.com/5i3uvK8.png" width="400" alt="Ecommerce"></a>
 <p>
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
