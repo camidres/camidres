@@ -57,7 +57,7 @@
 <td width="50%">
 <h3 align="center">Calculadora</h3>
 <div align="center">
-<a href="https://calculadora.cm-web.co" target="_blank"><img src="https://imgur.com/5i3uvK8" width="400" alt="Calculadora"></a>
+<a href="https://calculadora.cm-web.co" target="_blank"><blockquote class="imgur-embed-pub" lang="en" data-id="5i3uvK8"><a href="https://imgur.com/5i3uvK8">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></a>
 <p>
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
