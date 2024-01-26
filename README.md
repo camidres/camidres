@@ -53,7 +53,7 @@
 </td>
   </tr>
 
-  <tr>
+<tr>
 <td width="50%">
 <h3 align="center">Calculadora</h3>
 <div align="center">
@@ -65,6 +65,27 @@
 </p>
 <p>
   Proyecto realizado con la finalidad de poner en practica mis conocimientos.<br>
+  - Herramientas: html, sass, javascript.
+
+</p>
+</div>
+                                                                                      
+</td>
+
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">Formulario</h3>
+<div align="center">
+<a href="https://calculadora.cm-web.co" target="_blank"><img src="https://i.imgur.com/V6l29La.png" width="400"></a>
+<p>
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>
+  Formulario con validaciones en sus respectivos campos.<br>
   - Herramientas: html, sass, javascript.
 
 </p>
