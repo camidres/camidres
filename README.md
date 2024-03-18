@@ -59,7 +59,7 @@
 <td width="50%">
 <h3 align="center">App de tareas</h3>
 <div align="center">                                       
-<a href="https://apptareas.cm-web.co" target="_blank"><img src="https://cm-web.co/imagenes/inventario.PNG" width="400" alt="Apptareas"></a>
+<a href="https://apptareas.cm-web.co" target="_blank"><img src="https://i.imgur.com/SuKpXjD.png" width="400" alt="Apptareas"></a>
 <p>
 <a href="https://github.com/camidres/inventario.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
